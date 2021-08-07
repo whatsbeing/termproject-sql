@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/4772313/simple-syntax-multiple-constraints-in-alter-table-statement/4772566
+http://www.blackwasp.co.uk/SQLDefaultColumns.aspx
+https://app.diagrams.net/
